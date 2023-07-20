@@ -1,4 +1,5 @@
 # Rock Paper Scissors Game
-- This is simple rock paper scissors game made by [guneyuzel](https://github.com/guneyuzel) in conjunction with the "Odin Project".  
 
-## _[View the site](https://guneyuzel.github.io/rps/)_
+Rock paper scissors game created with HTML, CSS, and JS.
+
+[Live Demo](https://guneyuzel.github.io/rock-paper-scissors/) :point_left:
